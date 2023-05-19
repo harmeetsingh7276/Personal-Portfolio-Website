@@ -24,24 +24,43 @@ const About = () => {
             <article className="about_card">
               <FaAward className='about_icon'/>
               <h5>Experience</h5>
-              <small>2+ Years Working</small>
+              <small>2.5+ Years Working</small>
             </article>
 
             <article className="about_card">
               <FiUsers className='about_icon'/>
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <h5>Backend Technology</h5>
+              <small>Java, Node.js, C++, C#</small>
             </article>
 
              <article className="about_card">
               <VscFolderLibrary className='about_icon'/>
-              <h5>Projects</h5>
-              <small>80+ Completed Projects</small>
+              <h5>Frontend Technology</h5>
+              <small>React.js, Javascript, HTML5, CSS, Apache Velocity</small>
+            </article>
+
+            <article className="about_card">
+              <VscFolderLibrary className='about_icon'/>
+              <h5>Frameworks</h5>
+              <small>Spring, SpringBoot, Spring MVC, Bootstrap,</small>
+            </article>
+
+            <article className="about_card">
+              <VscFolderLibrary className='about_icon'/>
+              <h5>Databases</h5>
+              <small>MySQL, Oracle, Postgres, Oracle, MongoDB</small>
+            </article>
+
+            <article className="about_card">
+              <VscFolderLibrary className='about_icon'/>
+              <h5>ORM</h5>
+              <small>Hibernate, MyBatis</small>
             </article>
           </div>
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-            Quos non sunt itaque ducimus a quod omnis dolorum facilis fugiat eaque, veritatis architecto maiores quas,
-            cum pariatur nemo ratione sapiente cupiditate.
+          <p>Experienced Full Stack Developer with over 2 years of hands-on experience
+            building scalable services using event-drive architecture. Proficient in both
+            front-end and back-end development, with a strong understanding of modern
+            web development technologies and frameworks.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

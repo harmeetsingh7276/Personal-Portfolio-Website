@@ -7,10 +7,10 @@ import {BsWhatsapp} from 'react-icons/bs'
 const HeaderSocials = () => {
   return (
     <div className="header_socials">
-        <a href="https://linkedin.com" target='_blank'><BsLinkedin/></a>
-        <a href="https://github.com" target='_blank'><BsGithub/></a>
-        <a href="https://instagram.com" target='_blank'><BsInstagram/></a>
-        <a href="https://whatsapp.com" target='_blank'><BsWhatsapp/></a>
+        <a href="https://www.linkedin.com/in/harmeetsingh7276/" target='_blank'><BsLinkedin/></a>
+        <a href="https://github.com/harmeetsingh7276" target='_blank'><BsGithub/></a>
+        <a href="https://www.instagram.com/harmeetsingh7276/" target='_blank'><BsInstagram/></a>
+        <a href="https://wa.me/+917276720124" target='_blank'><BsWhatsapp/></a>
     </div>
   )
 }

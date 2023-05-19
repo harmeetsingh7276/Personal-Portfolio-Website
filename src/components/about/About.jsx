@@ -57,9 +57,10 @@ const About = () => {
               <small>Hibernate, MyBatis</small>
             </article>
           </div>
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-            Quos non sunt itaque ducimus a quod omnis dolorum facilis fugiat eaque, veritatis architecto maiores quas,
-            cum pariatur nemo ratione sapiente cupiditate.
+          <p>Experienced Full Stack Developer with over 2 years of hands-on experience
+            building scalable services using event-drive architecture. Proficient in both
+            front-end and back-end development, with a strong understanding of modern
+            web development technologies and frameworks.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

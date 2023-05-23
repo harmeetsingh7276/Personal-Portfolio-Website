@@ -58,6 +58,9 @@ input,textarea{
     }
 
 }
+.btn-div{
+    text-align: center;
+}
 
 /*===============MEDIA QUEIRES (SMALL DEVICES) ============*/
 @media screen and (max-width: 600px) {

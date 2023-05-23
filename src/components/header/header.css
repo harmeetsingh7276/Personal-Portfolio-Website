@@ -18,7 +18,7 @@ header{
     justify-content: center;
 }
 
-/*=======HEADERSOCIALS========*/
+/*=======HEADER_SOCIALS========*/
 .header_socials{
     display: flex;
     flex-direction: column;

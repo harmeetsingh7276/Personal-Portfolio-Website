@@ -26,7 +26,7 @@ const data = [
   {
     avatar: AVTR3,
     name: "Neeraj Baipureddy",
-    review:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde praesentium, quaerat at repellendus fugiat aperiam laboriosam, error voluptatem placeat vero itaque quo asperiores! Magni eius numquam velit commodi quos ducimus?",
+    review:"Harmeet is a highly accomplished professional renowned for his exceptional qualities and remarkable contributions within the industry. During our collaboration on a Salesforce project at Edubrite, I had the privilege of witnessing Harmeet's proactive nature and unwavering commitment to excellence. His profound expertise in Java, MySQL  played a pivotal role in the success of our team. I personally benefitted from his extensive knowledge, particularly in debugging. Harmeet's meticulous attention to detail, unwavering dedication to producing top-notch work, and remarkable problem-solving skills significantly elevated the outcome of our project. Furthermore, his strong work ethic, remarkable teamwork acumen, and positive attitude will make him an invaluable asset to any company.",
   },
   {
     avatar: AVTR4,

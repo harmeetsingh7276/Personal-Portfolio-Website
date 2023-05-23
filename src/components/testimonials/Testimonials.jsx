@@ -6,7 +6,7 @@ import AVTR3 from "../../assests/avatar3.jpg";
 import AVTR4 from "../../assests/avatar4.jpg";
 
 // import Swiper core and required modules
-import { Pagination , Navigation} from 'swiper';
+import { Pagination , Navigation, Autoplay} from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 // Import Swiper styles
 import 'swiper/css';
@@ -49,7 +49,7 @@ const Testimonials = () => {
        modules={[ Pagination ]}
        spaceBetween={40}
        slidesPerView={1}
-       navigation
+        autoplay={{delay: 4000,disableOnInteraction: false}}
        pagination={{ clickable: true }}
       >
         {data.map(({ avatar, name, review ,post }, index) => {

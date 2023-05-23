@@ -22,7 +22,7 @@ const data = [
   {
     avatar: AVTR2,
     name: "Gayatri Shinde",
-    post: "Software Engineer at Intangles",
+    post: "Full Stack Developer at Intangles ",
     review:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde praesentium, quaerat at repellendus fugiat aperiam laboriosam, error voluptatem placeat vero itaque quo asperiores! Magni eius numquam velit commodi quos ducimus?",
   },
   {

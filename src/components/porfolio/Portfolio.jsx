@@ -1,6 +1,6 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assests/portfolio1.jpg'
+import IMG1 from '../../assests/portfolio1.png'
 import IMG2 from '../../assests/portfolio2.jpg'
 import IMG3 from '../../assests/portfolio3.jpg'
 import IMG4 from '../../assests/portfolio4.jpg'
@@ -11,9 +11,9 @@ const data=[
   {
     id:1,
     image:IMG1,
-    title:'Title 1',
-    github:'https://github.com',
-    demo:'https://dribbble.com/Alien_pixels'
+    title:'Portfolio Website',
+    github:'https://github.com/harmeetsingh7276/Personal-Portfolio-Website',
+    demo:'https://harmeetsinghgorowada.vercel.app/'
   },
   {
     id:2,
@@ -26,27 +26,6 @@ const data=[
     id:3,
     image:IMG3,
     title:'Title 3',
-    github:'https://github.com',
-    demo:'https://dribbble.com/Alien_pixels'
-  },
-  {
-    id:4,
-    image:IMG4,
-    title:'Title 4',
-    github:'https://github.com',
-    demo:'https://dribbble.com/Alien_pixels'
-  },
-  {
-    id:5,
-    image:IMG1,
-    title:'Title 5',
-    github:'https://github.com',
-    demo:'https://dribbble.com/Alien_pixels'
-  },
-  {
-    id:6,
-    image:IMG6,
-    title:'Title 6',
     github:'https://github.com',
     demo:'https://dribbble.com/Alien_pixels'
   },

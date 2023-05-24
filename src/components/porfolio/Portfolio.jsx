@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assests/portfolio1.png'
-import IMG2 from '../../assests/portfolio2.jpg'
+import IMG2 from '../../assests/portfolio2.png'
 import IMG3 from '../../assests/portfolio3.jpg'
 import IMG4 from '../../assests/portfolio4.jpg'
 import IMG5 from '../../assests/portfolio5.png'

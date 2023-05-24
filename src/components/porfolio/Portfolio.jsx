@@ -18,9 +18,9 @@ const data=[
   {
     id:2,
     image:IMG2,
-    title:'Title 2',
-    github:'https://github.com',
-    demo:'https://dribbble.com/Alien_pixels'
+    title:'User based Hotel Rating Microservices',
+    github:'https://github.com/harmeetsingh7276/SpringBoot-UserBaseHotelRating',
+    // demo:'https://github.com/harmeetsingh7276/SpringBoot-UserBaseHotelRating'
   },
   {
     id:3,
@@ -48,7 +48,9 @@ const Portfolio = () => {
                 <h3>{title}</h3>
                 <div className="portfolio_item-cta">
                   <a href={github} target='_blank' className='btn'>GitHub</a>
-                  <a href={demo} target='_blank' className='btn btn-primary'>Live Demo</a>
+                  {demo !=null &&
+                    <a href={demo} target='_blank' className='btn btn-primary'>Live Demo</a>
+                  }
                 </div>
               </article>
           )

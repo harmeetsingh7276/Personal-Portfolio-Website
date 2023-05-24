@@ -17,25 +17,25 @@ const data = [
     avatar: AVTR1,
     name: "Mudassir Ali",
     post: "Software Engineer at LinkedIn",
-    review:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde praesentium, quaerat at repellendus fugiat aperiam laboriosam, error voluptatem placeat vero itaque quo asperiores! Magni eius numquam velit commodi quos ducimus?",
+    review:"I worked with Harmeet during my initial years of Career as a Co-Worker. He is very Outspoken and one of the Creative minds I have ever worked with. His dedication towards the completion of work is one of the things I admire the most. He was my team member and was very spontaneous and enthusiastic to dig into the root cause of problem and come up with optimal solutions. I remember a customer project in which he came up with an optimised solution for API Calls making our project more robust. Working along with him has brought the best out of me and he has always kept me on my toes to push through deadlines. I happily recommend Harmeet  to work in creative and fast paced organizations who are looking for a competent, quick learner and adaptability as he possesses all of these skills and is at his best under pressure.",
   },
   {
     avatar: AVTR2,
     name: "Gayatri Shinde",
     post: "Full Stack Developer at Intangles ",
-    review:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde praesentium, quaerat at repellendus fugiat aperiam laboriosam, error voluptatem placeat vero itaque quo asperiores! Magni eius numquam velit commodi quos ducimus?",
+    review:"Harmeet has been my go to person for brainstorming and quick debugging sessions. I got a chance to collaborate with him during multiple projects at Edubrite. Harmeet is a skilled Java developer, and his knowledge in hibernate and spring makes him stand out. Over the time he has upgraded his programming skills. Harmeet has good problem solving skills and his ability to understand the problems and reach the best solution is remarkable. I have worked with him for over a year in both of our early stages of careers during which I have seen an exponential growth in his skills!",
   },
   {
     avatar: AVTR3,
     name: "Neeraj Baipureddy",
     post: "Software Engineer at LinkedIn",
-    review:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde praesentium, quaerat at repellendus fugiat aperiam laboriosam, error voluptatem placeat vero itaque quo asperiores! Magni eius numquam velit commodi quos ducimus?",
+    review:"Harmeet is a highly accomplished professional renowned for his exceptional qualities and remarkable contributions within the industry. During our collaboration on a Salesforce project at Edubrite, I had the privilege of witnessing Harmeet's proactive nature and unwavering commitment to excellence. His profound expertise in Java, MySQL  played a pivotal role in the success of our team. I personally benefitted from his extensive knowledge, particularly in debugging. Harmeet's meticulous attention to detail, unwavering dedication to producing top-notch work, and remarkable problem-solving skills significantly elevated the outcome of our project. Furthermore, his strong work ethic, remarkable teamwork acumen, and positive attitude will make him an invaluable asset to any company",
   },
   {
     avatar: AVTR4,
     name: "Ashween Ramakrishan",
     post: "Software Engineer at LinkedIn",
-    review:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde praesentium, quaerat at repellendus fugiat aperiam laboriosam, error voluptatem placeat vero itaque quo asperiores! Magni eius numquam velit commodi quos ducimus?",
+    review:"Harmeet is a highly accomplished professional renowned for his exceptional qualities and remarkable contributions within the industry. During our collaboration on a Salesforce project at Edubrite, I had the privilege of witnessing Harmeet's proactive nature and unwavering commitment to excellence. His profound expertise in Java, MySQL  played a pivotal role in the success of our team. I personally benefitted from his extensive knowledge, particularly in debugging. Harmeet's meticulous attention to detail, unwavering dedication to producing top-notch work, and remarkable problem-solving skills significantly elevated the outcome of our project. Furthermore, his strong work ethic, remarkable teamwork acumen, and positive attitude will make him an invaluable asset to any company",
   },
 ];
 const Testimonials = () => {

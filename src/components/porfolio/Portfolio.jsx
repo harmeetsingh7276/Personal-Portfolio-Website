@@ -1,8 +1,9 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assests/portfolio1.png'
-import IMG2 from '../../assests/portfolio2.jpg'
-import IMG3 from '../../assests/portfolio3.jpg'
+import IMG2 from '../../assests/portfolio2.png'
+// import IMG3 from '../../assests/portfolio3.jpg'
+import IMG3 from '../../assests/portfolio3.png'
 import IMG4 from '../../assests/portfolio4.jpg'
 import IMG5 from '../../assests/portfolio5.png'
 import IMG6 from '../../assests/portfolio6.jpg'
@@ -25,9 +26,9 @@ const data=[
   {
     id:3,
     image:IMG3,
-    title:'Title 3',
-    github:'https://github.com',
-    demo:'https://dribbble.com/Alien_pixels'
+    title:'Kafka Application - For Message Queueing',
+    github:'https://github.com/harmeetsingh7276/SpringBoot-Kafka-Real-World-Project',
+    // demo:'https://dribbble.com/Alien_pixels'
   },
 ]
 

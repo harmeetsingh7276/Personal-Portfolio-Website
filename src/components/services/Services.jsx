@@ -17,12 +17,11 @@ const Services = () => {
           <ul className="service_list">
             <li>
               <RxDotFilled className="service_list-icon"/>
-              <p>Part of BillDesk's Autopay Platform team, building event-driven services responsible for fetching and generating invoice for specific merchants, automating payments with mandates, refunding in-case of multiple payments and notifying the consumers about their transactions with email and Gupshup messaging service.</p>
-            </li>
-
+              <p>Responsible for building services for fetching/generating invoices, automating payments , handling refunds, and notifying consumers via email messaging service.</p>
+              </li>
             <li>
               <RxDotFilled className="service_list-icon"/>
-              <p>Implemented RESTful APIs maintaining security measures, and collaborated with partner teams to integrate APIs for payment.</p>
+              <p>Implemented secure RESTful APIs and collaborated with partner teams for payment integration.</p>
             </li>
 
             <li>
@@ -32,7 +31,7 @@ const Services = () => {
 
             <li>
               <RxDotFilled className="service_list-icon"/>
-              <p>Implemented Swagger API across all services.</p>
+              <p>Implemented Swagger API documentation across all services to ensure standardized documentation for easy integration and usage.</p>
             </li>
 
             <li>
@@ -72,7 +71,7 @@ const Services = () => {
 
             <li>
               <RxDotFilled className="service_list-icon"/>
-              <p>Worked on integrating a client’s API into the LMS.</p>
+              <p>Worked on the seamless integration of a client's API into the Learning Management System (LMS) to enable efficient data exchange and enhance system functionality.</p>
             </li>
 
             <li>
@@ -93,7 +92,7 @@ const Services = () => {
           <ul className="service_list">
             <li>
               <RxDotFilled className="service_list-icon"/>
-              <p>Designed a new PowerApps Canvas Driven app.</p>
+              <p>Designed a new PowerApps Canvas Driven app, utilizing the PowerApps platform to create a visually-driven and user-friendly application interface for enhanced user experience and functionality.</p>
             </li>
 
             <li>
@@ -108,7 +107,7 @@ const Services = () => {
 
             <li>
               <RxDotFilled className="service_list-icon"/>
-              <p>Retrieved data from APIs in PowerApps.</p>
+              <p>Retrieved data from APIs within PowerApps, enabling seamless integration and access to external data sources.</p>
             </li>
 
           </ul>

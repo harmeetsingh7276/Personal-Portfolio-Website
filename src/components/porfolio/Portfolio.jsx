@@ -14,7 +14,7 @@ const data=[
     image:IMG1,
     title:'Portfolio Website',
     github:'https://github.com/harmeetsingh7276/Personal-Portfolio-Website',
-    demo:'https://harmeetsinghgorowada.vercel.app/'
+    // demo:'https://harmeetsinghgorowada.vercel.app/'
   },
   {
     id:2,

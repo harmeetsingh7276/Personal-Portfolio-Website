@@ -36,10 +36,11 @@ const Contact = () => {
           </article>
 
           <article className="contact_option">
-          <RiMessengerLine className='contact_option_icon'/>
-            <h4>Messenger</h4>
+          <BsLinkedin className='contact_option_icon'/>
+            <h4>Linkedin</h4>
             <h5>Harmeet Singh Gorowada</h5>
-            <a href="https://m.me/harmeet.singh.376043" target='_blank'>Send a Message</a>
+            {/* <a href="https://m.me/harmeet.singh.376043" target='_blank'>Send a Message</a> */}
+            <a href="https://www.linkedin.com/in/harmeetsingh7276/" target='_blank'>Connect on Linkedin</a> 
           </article>
 
           <article className="contact_option">

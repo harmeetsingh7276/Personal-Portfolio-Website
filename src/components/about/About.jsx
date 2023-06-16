@@ -19,7 +19,7 @@ const About = () => {
             </div>
         </div>
         <div className="about_content">
-        <p>Experienced Full Stack Developer with over 2 years of hands-on experience
+          <p>Experienced Full Stack Developer with over 2 years of hands-on experience
             building scalable services using event-drive architecture. Proficient in both
             front-end and back-end development, with a strong understanding of modern
             web development technologies and frameworks.
@@ -63,7 +63,7 @@ const About = () => {
             </article>
           </div>
           
-          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+          <a id='letTalk' href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
     </section>

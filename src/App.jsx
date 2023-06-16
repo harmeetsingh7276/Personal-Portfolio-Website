@@ -11,6 +11,10 @@ import Footer from './components/footer/Footer'
 import 'swiper/swiper-bundle.css';
 import SwiperCore, { Autoplay } from 'swiper';
 import { Analytics } from '@vercel/analytics/react';
+import ReactGA from 'react-ga'
+
+const GA_TRACKING_ID="UA-196441380-1";//Google analytics TRACKING ID
+ReactGA.initialize(GA_TRACKING_ID);
 
 export default function App() {
   SwiperCore.use([Autoplay])

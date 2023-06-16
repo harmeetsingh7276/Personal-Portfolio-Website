@@ -10,7 +10,7 @@ import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
 import 'swiper/swiper-bundle.css';
 import SwiperCore, { Autoplay } from 'swiper';
-import { Analytics } from '@vercel/analytics';
+import { Analytics } from '@vercel/analytics/react';
 
 export default function App() {
   SwiperCore.use([Autoplay])

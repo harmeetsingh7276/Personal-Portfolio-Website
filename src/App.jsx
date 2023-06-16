@@ -10,12 +10,13 @@ import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
 import 'swiper/swiper-bundle.css';
 import SwiperCore, { Autoplay } from 'swiper';
-import { Analytics } from '@vercel/analytics/react';
+import { Analytics } from '@vercel/analytics';
 
 export default function App() {
   SwiperCore.use([Autoplay])
   return (
     <>
+      <Analytics />
       <Header/>
       <Nav/>
       <About/>
@@ -25,7 +26,6 @@ export default function App() {
       <Testimonials/>
       <Contact/>
       <Footer/>
-      <Analytics />
     </>
   )
 }

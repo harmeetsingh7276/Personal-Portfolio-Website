@@ -25,14 +25,14 @@ const data=[
   },
   {
     id:3,
-    image:IMG4,
+    image:IMG3,
     title:'Kafka Application - For Message Queueing',
     github:'https://github.com/harmeetsingh7276/SpringBoot-Kafka-Real-World-Project',
     // demo:'https://dribbble.com/Alien_pixels'
   },
   {
     id:4,
-    image:IMG3,
+    image:IMG4,
     title:'Shopping Application',
     github:'https://github.com/harmeetsingh7276/Microservices-ShoppingApp.git',
     // demo:'https://dribbble.com/Alien_pixels'

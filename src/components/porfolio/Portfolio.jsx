@@ -36,7 +36,7 @@ const data=[
     title:'Shopping Application',
     github:'https://github.com/harmeetsingh7276/Microservices-ShoppingApp.git',
     // demo:'https://dribbble.com/Alien_pixels'
-  },
+  }
 ]
 
 const Portfolio = () => {

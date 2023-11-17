@@ -1,6 +1,6 @@
 import React from 'react'
 import './services.css'
-import {RxDotFilled} from 'react-icons/rx'
+import { RxDotFilled } from 'react-icons/rx'
 
 const Services = () => {
   return (
@@ -16,32 +16,32 @@ const Services = () => {
 
           <ul className="service_list">
             <li>
-              <RxDotFilled className="service_list-icon"/>
-              <p>Responsible for building services for fetching/generating invoices, automating payments , handling refunds, and notifying consumers via email messaging service.</p>
-              </li>
+              <RxDotFilled className="service_list-icon" />
+              <p>Led a module for an Internal Product, aligning with OCEN Specifications to
+                facilitate seamless loan disbursement to businesses and individuals.</p>
+            </li>
             <li>
-              <RxDotFilled className="service_list-icon"/>
-              <p>Implemented secure RESTful APIs and collaborated with partner teams for payment integration.</p>
+              <RxDotFilled className="service_list-icon" />
+              <p>Contributed to a renowned Payment Gateway Platform team. Implemented secure RESTful APIs and collaborated with partner teams for payment integration.</p>
             </li>
 
             <li>
-              <RxDotFilled className="service_list-icon"/>
-              <p>Implemented Refund Service, debugged problems & fixed bugs in various environment like QA, UAT & PROD.</p>
+              <RxDotFilled className="service_list-icon" />
+              <p>Developed and managed a Refund Service, addressing issues and
+                resolving bugs across various environments, including QA, UAT, and
+                PROD.</p>
             </li>
 
             <li>
-              <RxDotFilled className="service_list-icon"/>
-              <p>Implemented Swagger API documentation across all services to ensure standardized documentation for easy integration and usage.</p>
+              <RxDotFilled className="service_list-icon" />
+              <p>Executed the integration of Swagger API and coordinated the
+                implementation of Apache Kafka-driven event-based service throughout
+                all modules.</p>
             </li>
-
             <li>
-              <RxDotFilled className="service_list-icon"/>
-              <p>Analysed Vulnerability Assessment and Penetration test (VAPT) and performance test results. Based on which enriched and optimised the code which enhanced API security.</p>
-            </li>
-
-            <li>
-              <RxDotFilled className="service_list-icon"/>
-              <p>Managed a team of 3 developers, providing guidance and support in their tasks and ensuring timely delivery of the project.</p>
+              <RxDotFilled className="service_list-icon" />
+              <p>Managed a team of 3 developers, providing guidance and support in their
+                tasks and ensuring timely delivery of the project.</p>
             </li>
           </ul>
         </article>
@@ -55,27 +55,27 @@ const Services = () => {
 
           <ul className="service_list">
             <li>
-              <RxDotFilled className="service_list-icon"/>
+              <RxDotFilled className="service_list-icon" />
               <p>Built customized web pages using Velocity, Javascript aligning with the Learning Management System (LMS) product</p>
             </li>
 
             <li>
-              <RxDotFilled className="service_list-icon"/>
+              <RxDotFilled className="service_list-icon" />
               <p>Worked on a few in house features to enhance the LMS product using technologies like Java, JSP, JSTL Tags, Custom Tags, jQuery and MySQL.</p>
             </li>
 
             <li>
-              <RxDotFilled className="service_list-icon"/>
+              <RxDotFilled className="service_list-icon" />
               <p>Led the team on making the learning management system accessible for a reputed IT firm.</p>
             </li>
 
             <li>
-              <RxDotFilled className="service_list-icon"/>
+              <RxDotFilled className="service_list-icon" />
               <p>Worked on the seamless integration of a client's API into the Learning Management System (LMS) to enable efficient data exchange and enhance system functionality.</p>
             </li>
 
             <li>
-              <RxDotFilled className="service_list-icon"/>
+              <RxDotFilled className="service_list-icon" />
               <p>Implemented custom and slds components by Salesforce for building customized websites.</p>
             </li>
 
@@ -91,22 +91,22 @@ const Services = () => {
 
           <ul className="service_list">
             <li>
-              <RxDotFilled className="service_list-icon"/>
+              <RxDotFilled className="service_list-icon" />
               <p>Designed a new PowerApps Canvas Driven app, utilizing the PowerApps platform to create a visually-driven and user-friendly application interface for enhanced user experience and functionality.</p>
             </li>
 
             <li>
-              <RxDotFilled className="service_list-icon"/>
+              <RxDotFilled className="service_list-icon" />
               <p>Implemented Solutions using multiple data sources (SharePoint, Excel, OneDrive).</p>
             </li>
 
             <li>
-              <RxDotFilled className="service_list-icon"/>
+              <RxDotFilled className="service_list-icon" />
               <p>Developed Power Automate Flows and an Asset Management App which eliminates all the paper-work and handles all the approvals on MS Teams.</p>
             </li>
 
             <li>
-              <RxDotFilled className="service_list-icon"/>
+              <RxDotFilled className="service_list-icon" />
               <p>Retrieved data from APIs within PowerApps, enabling seamless integration and access to external data sources.</p>
             </li>
 

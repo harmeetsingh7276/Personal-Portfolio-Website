@@ -42,14 +42,6 @@ export default function App() {
         <button name="add" onClick={addDataToListAndShow}>Add</button>
         <button name="submit">Submit</button>
       </form>
-
-      {showFlag &&
-       
-      }
-
-      
-
-
     </>
   );
 }

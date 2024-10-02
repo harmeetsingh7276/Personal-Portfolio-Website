@@ -8,6 +8,37 @@ const Services = () => {
       <h5>Companies I have worked for</h5>
       <h2>Professional Experience</h2>
       <div className="container services_container">
+      <article className="service">
+          <div className="service_head">
+            <h3>ACI Worldwide</h3>
+            <small>Jan 2024 - Present</small>
+          </div>
+
+          <ul className="service_list">
+            <li>
+              <RxDotFilled className="service_list-icon" />
+              <p>⁠Part of a renowned Electric Payments Processing Platform Postilion Interchanges Team.</p>
+            </li>
+
+            <li>
+              <RxDotFilled className="service_list-icon" />
+              <p>⁠Actively contributed to Agile Scrum teams to deliver key features, ensuring alignment with business objectives and adhering to strict project deadlines.</p>
+            </li>
+
+            <li>
+              <RxDotFilled className="service_list-icon" />
+              <p>Contributed as part of the L3 support team by resolving critical bugs, addressing client inquiries regarding product functionality, and assisting in understanding complex product configurations to ensure smooth client operations.</p>
+            </li>
+
+            <li>
+              <RxDotFilled className="service_list-icon" />
+              <p>Performed thorough code reviews and implemented automated testing on internal tools, consistently achieving over 90% code coverage to maintain high-quality standards.</p>
+            </li>
+
+          </ul>
+        </article>
+        {/* END OF ACI Worldwide */}
+
         <article className="service">
           <div className="service_head">
             <h3>Techbulls Softtech</h3>

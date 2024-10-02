@@ -42,7 +42,7 @@ const Services = () => {
         <article className="service">
           <div className="service_head">
             <h3>Techbulls Softtech</h3>
-            <small>Sept 2022 - Present</small>
+            <small>Sept 2022 - Dec 2023</small>
           </div>
 
           <ul className="service_list">
